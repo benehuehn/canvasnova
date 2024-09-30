@@ -1,0 +1,3 @@
+[submodule "canvasnova_new"]
+    path = canvasnova_new
+    url = https://github.com/benehuehn/canvasnova_new.git
